@@ -5,6 +5,9 @@ public class HelloWorld {
         System.out.println("Hello World!");
 
         hrIfElseTests();
+
+        //HrLoops1.main(null);
+        HrLoops2.main(null);
     }
 
     private static void hrIfElseTests() {
