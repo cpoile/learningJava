@@ -4,10 +4,11 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
-        hrIfElseTests();
+        //hrIfElseTests();
 
         //HrLoops1.main(null);
-        HrLoops2.main(null);
+        //HrLoops2.main(null);
+        System.out.println(HrGetDay.getDay("10", "12", "2017"));
     }
 
     private static void hrIfElseTests() {
