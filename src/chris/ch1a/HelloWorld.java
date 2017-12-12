@@ -10,7 +10,10 @@ public class HelloWorld {
         //HrLoops2.main(null);
         //System.out.println(HrGetDay.getDay("10", "12", "2017"));
         //HrHourglass.GetBiggestSum();
-        HrArrayList.main(null);
+        //HrArrayList.main(null);
+        //HrArrayGame.main(true);
+        //HrArrayGame2.main(true);
+        HrListQueriesWithFile.main(true);
     }
 
     private static void hrIfElseTests() {
