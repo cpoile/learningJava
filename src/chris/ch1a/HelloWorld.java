@@ -8,7 +8,9 @@ public class HelloWorld {
 
         //HrLoops1.main(null);
         //HrLoops2.main(null);
-        System.out.println(HrGetDay.getDay("10", "12", "2017"));
+        //System.out.println(HrGetDay.getDay("10", "12", "2017"));
+        //HrHourglass.GetBiggestSum();
+        HrArrayList.main(null);
     }
 
     private static void hrIfElseTests() {
