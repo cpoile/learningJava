@@ -13,7 +13,8 @@ public class HelloWorld {
         //HrArrayList.main(null);
         //HrArrayGame.main(true);
         //HrArrayGame2.main(true);
-        HrListQueriesWithFile.main(true);
+        //HrListQueriesWithFile.main(true);
+        HrStack.main(null);
     }
 
     private static void hrIfElseTests() {
