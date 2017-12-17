@@ -1,9 +1,6 @@
 package chris.ch1a;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 public class HrStack {
     public static void main(String[] argh) {
@@ -26,5 +23,10 @@ public class HrStack {
             String msg = stack.empty() ? "true" : "false";
             System.out.println(msg);
         }
+    }
+
+    // just for getting a testing framework up and running
+    public static Integer sumNums(Integer[] numbers) {
+        return Arrays.stream(numbers).reduce(Integer::sum).orElse(0);
     }
 }

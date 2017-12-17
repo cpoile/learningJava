@@ -2,7 +2,7 @@ package chris.ch1a;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World!  Input, if you're class requires it:");
 
         //hrIfElseTests();
 
@@ -14,7 +14,11 @@ public class HelloWorld {
         //HrArrayGame.main(true);
         //HrArrayGame2.main(true);
         //HrListQueriesWithFile.main(true);
-        HrStack.main(null);
+        //HrStack.main(null);
+        //HrStrings.main(null);
+        //HrSubstrings.main(null);
+        //HrPalandrome.main(null);
+        System.out.println(HrAnagrams.isAnagram("mapgrbm", "margpam"));
     }
 
     private static void hrIfElseTests() {
