@@ -18,7 +18,11 @@ public class HelloWorld {
         //HrStrings.main(null);
         //HrSubstrings.main(null);
         //HrPalandrome.main(null);
-        System.out.println(HrAnagrams.isAnagram("mapgrbm", "margpam"));
+        //System.out.println(HrAnagrams.isAnagram("mapgrbm", "margpam"));
+        //HrTokens.main(null);
+        //HrPatternCompile.main(null);
+        //HrIPPattern.main(null);
+        HrDuplicateWords.main(null);
     }
 
     private static void hrIfElseTests() {
