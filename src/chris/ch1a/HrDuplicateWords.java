@@ -27,8 +27,6 @@ public class HrDuplicateWords {
             System.out.println(input);
         }
 
-        BigIN
-
         in.close();
     }
 }

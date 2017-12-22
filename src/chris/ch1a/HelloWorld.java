@@ -1,8 +1,8 @@
 package chris.ch1a;
 
 public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello World!  Input, if you're class requires it:");
+    public static void main(String[] args) throws Exception {
+        System.out.println("Hello World!\nInput, if your class requires it:");
 
         //hrIfElseTests();
 
@@ -22,7 +22,10 @@ public class HelloWorld {
         //HrTokens.main(null);
         //HrPatternCompile.main(null);
         //HrIPPattern.main(null);
-        HrDuplicateWords.main(null);
+        //HrDuplicateWords.main(null);
+        //HrBigDecimal.main(null);
+        //HrBigIntegerPrime.main(null);
+        HrSHA256.main(null);
     }
 
     private static void hrIfElseTests() {
