@@ -34,7 +34,7 @@ public class HrListQueriesWithFile {
                         break;
                 }
             }
-            System.out.print(String.join(" ", lst.stream().map(i -> i.toString()).collect(Collectors.toList())));
+            System.out.print(String.join(" ", lst.stream().map(Object::toString).collect(Collectors.toList())));
 
         } catch (Exception e) {
 

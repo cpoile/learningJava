@@ -25,7 +25,10 @@ public class HelloWorld {
         //HrDuplicateWords.main(null);
         //HrBigDecimal.main(null);
         //HrBigIntegerPrime.main(null);
-        HrSHA256.main(null);
+        //HrSHA256.main(null);
+        //HrInnerClass.main(null);
+        //HrVarargs.main(null);
+        HrTreeVisitor.main(null);
     }
 
     private static void hrIfElseTests() {
