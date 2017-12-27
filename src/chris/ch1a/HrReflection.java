@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class HrReflection {
     public static void main(String[] args) {
-        Class student = Student.class;
+        Class student = Student2.class;
         Method[] methods = student.getDeclaredMethods();
 
         ArrayList<String> methodList = new ArrayList<>();
@@ -20,7 +20,7 @@ public class HrReflection {
     }
 }
 
-class Student {
+class Student2 {
     private String name;
     private String id;
     private String email;
@@ -40,5 +40,4 @@ class Student {
     public void anothermethod() {
     }
 }
-
 

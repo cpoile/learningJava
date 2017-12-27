@@ -28,7 +28,9 @@ public class HelloWorld {
         //HrSHA256.main(null);
         //HrInnerClass.main(null);
         //HrVarargs.main(null);
-        HrTreeVisitor.main(null);
+        //HrTreeVisitor.main(null);
+        //HrSets.main(null);
+        HrDeque.main(null);
     }
 
     private static void hrIfElseTests() {
