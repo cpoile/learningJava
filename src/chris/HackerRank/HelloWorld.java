@@ -34,7 +34,15 @@ public class HelloWorld {
         //LocalesMap.main(null);
         //Divsum.main(null);
         //HrBitSet2.main(null);
-        HrPriorityQueue.main(null);
+        //HrPriorityQueue.main(null);
+        //HrPlusMinus.main(null);
+        //HrStaircase.main(null);
+        //HrMiniMaxSum.main(null);
+        //HrBirthdayCakeCandles.main(null);
+        //HrTimeConversion.main(null);
+        //HrGrading.main(null);
+        //HrAppleAndOrange.main(null);
+        HrKangaroo.main(null);
     }
 
     private static void hrIfElseTests() {
