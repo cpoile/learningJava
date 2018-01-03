@@ -42,7 +42,13 @@ public class HelloWorld {
         //HrTimeConversion.main(null);
         //HrGrading.main(null);
         //HrAppleAndOrange.main(null);
-        HrKangaroo.main(null);
+        //HrKangaroo.main(null);
+        //HrBetweenTwoSets.main(null);
+        //HrBreakingTheRecords.main(null);
+        //HrTheBirthdayBar.main(null);
+        //HrDivisibleSumPairs.main(null);
+        //HrMigratoryBirds.main(null);
+        chris.HackerRank.HrBonAppetiteKt.HrBonAppetite(null);
     }
 
     private static void hrIfElseTests() {
